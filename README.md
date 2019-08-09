@@ -31,7 +31,7 @@ gem install bundler
    git clone https://github.com/Thialison/basic-web-automation.git
 
 2. Acesse a pasta pelo terminal e execute o comando:
-   bundle
+   bundle install
 
 3. Executando cenário de busca de apartamento:
    cucumber
